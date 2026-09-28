@@ -1,21 +1,17 @@
 # Primer ejercicio
-
-
-https://github.com/user-attachments/assets/56f716f0-660f-4d28-b06f-9271cc2c6c5d
+<img width="790" height="340" alt="Grabación de pantalla desde 2026-09-28 16-34-01" src="https://github.com/user-attachments/assets/2a0ab286-ff96-46a9-9eff-d4bb9a9b23ae" />
 
 
 
 # Segundo y Tercer ejercicio
-
-
-
-https://github.com/user-attachments/assets/d91d49e4-381b-4f08-a46a-c81e1d98a32e
+<img width="780" height="344" alt="Grabación de pantalla desde 2026-09-28 17-12-27" src="https://github.com/user-attachments/assets/ed2a2f7e-c0e2-4e27-a118-a7c56eedbd8e" />
 
 
 
 # Cuarto ejercicio
+<img width="780" height="344" alt="Grabación de pantalla desde 2026-09-28 17-18-42" src="https://github.com/user-attachments/assets/47dd5f67-f739-43a0-8cdc-4e79aab90c6e" />
 
 
 
-https://github.com/user-attachments/assets/5e142f8b-e825-4d26-affb-02cb9016c5c5
+
 
