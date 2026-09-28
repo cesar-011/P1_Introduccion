@@ -1,3 +1,9 @@
+# Hitos
+1. Desarrollar un script que actualice aleatoriamente el color de un objeto basándose en un temporizador de frames configurable desde el inspector.
+2. Calcular y exponer, tanto en la consola como en el inspector, la magnitud, ángulo, distancia y altura relativa entre dos vectores.
+3. Acceder al componente Transform de la esfera para extraer y mostrar en pantalla sus coordenadas actuales de posición.
+4. Calcular y mostrar en la consola la distancia de separación exacta entre un cubo y un cilindro utilizando la búsqueda de objetos por etiquetas.
+
 # Primer ejercicio
 <img width="790" height="340" alt="Grabación de pantalla desde 2026-09-28 16-34-01" src="https://github.com/user-attachments/assets/2a0ab286-ff96-46a9-9eff-d4bb9a9b23ae" />
 
